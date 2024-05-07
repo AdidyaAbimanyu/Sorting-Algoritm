@@ -1,8 +1,8 @@
-**Algoritma Sorting C++**
+### Algoritma Sorting C++
 
 Ini adalah koleksi algoritma pengurutan sederhana yang diimplementasikan dalam bahasa C++. Algoritma pengurutan yang tersedia adalah Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, dan Selection Sort. Setiap program memiliki kemampuan untuk mengurutkan array dengan ukuran yang berbeda.
 
-### Algoritma yang Tersedia:
+**Algoritma yang Tersedia:**
 1. **Bubble Sort**
    - Algoritma Bubble Sort adalah salah satu algoritma pengurutan sederhana yang membandingkan setiap pasangan elemen secara berurutan dan menukar mereka jika mereka berada dalam urutan yang salah.
   
@@ -18,13 +18,13 @@ Ini adalah koleksi algoritma pengurutan sederhana yang diimplementasikan dalam b
 5. **Selection Sort**
    - Selection Sort mencari elemen terkecil dari array dan menukarnya dengan elemen pertama. Kemudian, mencari elemen terkecil dari sisa array dan menukarnya dengan elemen kedua, dan begitu seterusnya.
 
-### Cara Penggunaan:
+**Cara Penggunaan:**
 1. Setiap program dapat dijalankan secara mandiri.
 2. Jalankan program dalam lingkungan pengembangan C++ Anda.
 3. Program akan secara otomatis menghasilkan array dengan angka acak.
 4. Hasil pengurutan akan ditampilkan sebelum dan setelah proses pengurutan.
 
-### Catatan:
+**Catatan:**
 - Pastikan Anda memiliki kompiler C++ yang terinstal di perangkat Anda.
 - Untuk menjalankan program, cukup kompilasi dan eksekusi file yang sesuai dengan algoritma yang ingin Anda uji.
 
